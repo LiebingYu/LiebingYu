@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LB-Yu&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LiebingYu&show_icons=true" />
 
 #### Hi there, I'm [Liebing](https://liebing.org.cn/)
 
