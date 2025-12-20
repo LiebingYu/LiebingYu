@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api?username=LiebingYu&show_icons=true" align="right"/>
 
 
 #### Hi there, I'm [Liebing](https://liebing.org.cn/)
@@ -7,4 +8,3 @@
 - I share my thoughts on my [blog](https://liebing.org.cn/)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiebingYu" />
